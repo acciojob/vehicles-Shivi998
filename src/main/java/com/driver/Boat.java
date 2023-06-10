@@ -15,7 +15,7 @@ public class Boat implements WaterVehicle{
     public String getVehicleName() {
         return name;
     }
-
+// fsbvb
     @Override
     public int getVehicleCapacity() {
         return capacity;
